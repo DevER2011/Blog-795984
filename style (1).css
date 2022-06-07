@@ -1,0 +1,35 @@
+#contact iframe
+{
+    width: 100%;
+}
+body{
+font-size:30px;
+}
+.travel_mainDiv{
+border:2px solid purple;
+font-size:20px;
+
+}
+img{
+width:100%;
+
+}
+#h3{
+margin:20px;
+font-size: 20px;
+}
+.movie_head{
+font-size: 28px;
+padding:8px;
+}
+i{
+float: right;
+}
+img{
+height:180px;
+width:150px;
+}
+.movie_text span{
+color:gold;
+
+}
